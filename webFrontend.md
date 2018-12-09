@@ -9,6 +9,7 @@
       - Javascript: <https://opentutorials.org/course/743/6580>
                     <https://opentutorials.org/course/1375>
       - Javascript(ES6 기초) : [const, let, import,export, arrow function](http://haviyj.tistory.com/3) 
+      - (선택) 이미 jQuery를 알고 있다면 [jQuery 보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
 
   - NPM, Yarn : [생활코딩 Node.js 중 모듈 과 NPM](https://opentutorials.org/course/2136/11854)
 
